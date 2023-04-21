@@ -1,0 +1,248 @@
+@media screen and (max-width: 1140px) {
+  .header__logo {
+    font-size: 40px;
+  }
+  .header__advertising-scroll {
+    width: 100%;
+  }
+  .main__conteiner-menu {
+    width: 25%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .main__catalog-product {
+    width: 400px;
+  }
+}
+@media screen and (max-width: 1222px)
+{
+  .header__logo
+  {
+    font-size: 42px;
+  }
+  .header__nav-contacts
+  {
+    padding-top: 10%;
+    font-size: 20px;
+  }
+  h3.about__info-title
+  {
+    font-size: 35px;
+  }
+  h4.about__info-experience
+  {
+    font-size: 20px;
+  }
+  h4.about__info-second
+  {
+    font-size: 20px;
+  }
+  h4.about__info-details
+  {
+    font-size: 20px;
+  }
+  .contact__conteiner-title
+  {
+    font-size: 32px;
+  }
+  .contact__info-details
+  {
+    font-size: 20px;
+  }
+  .footer__content-info
+  {
+    font-size: 15px;
+  }
+  .footer__content-search
+  {
+    display: none;
+  }
+  .footer__conteiner-content
+  {
+    width: 100%;
+    text-align: center;
+  }
+  .contact__conteiner-map
+  {
+    width: 90%;
+  }
+}
+@media screen and (max-width: 1115px)
+{
+  .header__logo
+  {
+    font-size: 42px;
+  }
+  .header__nav-contacts
+  {
+    padding-top: 10%;
+    font-size: 20px;
+  }
+  h3.about__info-title
+  {
+    font-size: 35px;
+  }
+  h4.about__info-experience
+  {
+    font-size: 20px;
+  }
+  h4.about__info-second
+  {
+    font-size: 20px;
+  }
+  h4.about__info-details
+  {
+    font-size: 20px;
+  }
+  .contact__info-details
+  {
+    height: 60%;
+    font-size: 15px;
+  }
+  #text
+  {
+    font-size: 10px;
+  }
+  .contact__info-details
+  {
+    font-size: 20px;
+  }
+  .footer__content-info
+  {
+    font-size: 15px;
+  }
+  .footer__content-search
+  {
+    display: none;
+  }
+  .footer__conteiner-content
+  {
+    width: 100%;
+    text-align: center;
+  }
+  .contact__conteiner-map
+  {
+    width: 90%;
+  }
+  .main__catalog-product
+  {
+    width: 25%;
+    height: 25%;
+  }
+}
+@media screen and (max-width: 1054px)
+{
+  .header__logo
+  {
+    font-size: 40px;
+  }
+  .header__nav-contacts
+  {
+    padding-top: 10%;
+    font-size: 10px;
+  }
+  .header__menu
+  {
+    font-size: 15px;
+  }
+  .header__menu-image
+  {
+    margin: 0 50px;
+  }
+  h3.about__info-title
+  {
+    font-size: 35px;
+  }
+  h4.about__info-experience
+  {
+    font-size: 20px;
+  }
+  h4.about__info-second
+  {
+    font-size: 20px;
+  }
+  h4.about__info-details
+  {
+    font-size: 20px;
+  }
+  .contact__conteiner-title
+  {
+    font-size: 32px;
+  }
+  .contact__info-details
+  {
+    font-size: 20px;
+  }
+  .footer__content-info
+  {
+    font-size: 15px;
+  }
+  .footer__content-search
+  {
+    display: none;
+  }
+  .footer__conteiner-content
+  {
+    width: 100%;
+    text-align: center;
+  }
+  .contact__conteiner-map
+  {
+    width: 90%;
+  }
+  .main__catalog-product
+  {
+    width: 25%;
+    height: 25%;
+  }
+}
+@media screen and (max-width: 767px)
+{
+  .background
+  {
+    width: 385px;
+  }
+  .header__advertising-scroll
+  {
+  width: 100%;
+  height: 40%;
+  }
+  .header__menu-image
+  {
+    display: none;
+  }
+  .header__menu-row
+  {
+    display: none;
+  }
+  .header__about
+  {
+    display: none;
+  }
+  .header_burger
+  {
+    display:block;
+    position: relative;
+    width: 30px;
+    height: 20px;
+  }
+  .header_burger span
+  {
+    position: absolute;
+    background-color: white;
+    left: 0;
+    width: 100%;
+
+  }
+  .header_burger:before,
+  .header_burger:after
+  {
+    content: '';
+    background-color: black;
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    left: 0;
+  }
+}
